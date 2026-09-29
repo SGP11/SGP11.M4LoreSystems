@@ -22,7 +22,7 @@ Giving Outer Wilds post‑Eye narrative further replayability.
 - [Jam 5 Ping Box](https://outerwildsmods.com/mods/jam5pingbox/) by orclecle  
 - [TLD Jam 5](https://outerwildsmods.com/mods/tldjam5/) by TheLoweDown256  
 - [Fifth Mod Jam](https://outerwildsmods.com/mods/fifthmodjam/) by TheSignalJammers  
-- [Mod Jam 5 B‑Side](https://outerwildsmods.com/mods/modjam5/) by xen‑42  
+- [Mod Jam 5](https://outerwildsmods.com/mods/modjam5/) by xen‑42  
 - [Astral Codex](https://outerwildsmods.com/mods/astralcodex/) by Walker  
 - [The Stranger They Are](https://outerwildsmods.com/mods/thestrangertheyare/) by AnonymousStrangerOW  
 - [Tesseract’s Secret](https://outerwildsmods.com/mods/tesseractssecret/) by CantAffordaName  
