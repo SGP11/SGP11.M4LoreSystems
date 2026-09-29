@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/61c19747-28f1-4c49-80f2-4948d116bedf" />
+<img width="1500" height="500" alt="thumbnail" src="https://github.com/user-attachments/assets/8e912366-d5fb-4c8f-a916-feffbc1be44b" />
 
 # SGP11.M4LoreSystems — Lore Systems Pack
 
