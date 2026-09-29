@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ModPackTemplate.dll",
+  "author": "SGP11",
+  "name": "M4 Lore Systems",
+  "uniqueName": "SGP11.M4LoreSystems",
+  "version": "1.0.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": [
+    "coderCleric.JamHub",
+    "GameWyrm.HearthsNeighbor2",
+    "MegaPiggy.Axiom",
+    "xen.ModJam3",
+    "2walker2.OWJam5ModProject",
+    "CantAffordaName.OnARail",
+    "Ender.Beryl.BrightSpark",
+    "Etherpod.T0187",
+    "Hawkbar.Terrarium",
+    "MegaPiggy.AnomalyResearchAndContainment",
+    "orclecle.Jam5PingBox",
+    "TheLoweDown256.TLDJam5",
+    "TheSignalJammers.FifthModJam",
+    "xen-42.ModJam5",
+    "Walker.AstralCodex",
+    "AnonymousStrangerOW.TheStrangerTheyAre",
+    "CantAffordaName.TesseractsSecret"
+  ]
+}
